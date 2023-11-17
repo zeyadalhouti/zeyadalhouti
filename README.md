@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**zeyadalhouti/zeyadalhouti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Your Name], a [Your Role] passionate about [Your Interests]. Currently [Your Current Job or Study]. 
 
-Here are some ideas to get you started:
+### Skills
+- Web Development: HTML, CSS, JavaScript
+- Programming Languages: Python, Java
+- Frameworks: React, Flask
+- Database: MySQL, MongoDB
+- Version Control: Git
+- etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- [Project Name 1](Link to Repo or Demo): Short description.
+- [Project Name 2](Link to Repo or Demo): Short description.
+- [Project Name 3](Link to Repo or Demo): Short description.
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+![Your contribution graph](https://github-readme-streak-stats.herokuapp.com/?user=yourusername)
+
+### Connect with me
+[LinkedIn](Your LinkedIn Profile Link) | [Twitter](Your Twitter Profile Link)
+
+### Read my blog
+[Blog Name](Your Blog Link)
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
